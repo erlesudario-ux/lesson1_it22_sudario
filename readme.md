@@ -1,1 +1,1 @@
-# Getting started with pyton Dev by Lagnada
+# Getting started with pyton Dev by Lagnada & Ilagan
